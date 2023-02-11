@@ -7,4 +7,5 @@ For the third challenge of the boot camp, I was tasked with creating a password 
 
 Website URL: https://snowthebotttt.github.io/Password-Generator/
 
-![Untitled - Google Chrome 2_10_2023 11_52_32 PM](https://user-images.githubusercontent.com/49454716/218246627-566c7cab-3918-40dc-9d13-d65d10def536.png)
+
+![Untitled - Google Chrome 2_10_2023 11_52_41 PM](https://user-images.githubusercontent.com/49454716/218246656-ab493a34-c4f7-441b-96a9-0f07de5c5445.png)
